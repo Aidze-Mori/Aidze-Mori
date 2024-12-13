@@ -5,7 +5,6 @@
 
 
 Чаще всего использую следующие технологии:
-
       **Общие** - python, jupyter notbook, streamlit, gradio, numpy, pandas, os, scikit-learn (sklearn)\
       **Computer Vision** - OpenCV, PIL, YOLO, OpenAI CLIP\
       **Table data** - sklearn, pandas, os, matplotlib, seaborn, plotly, Catboost,\

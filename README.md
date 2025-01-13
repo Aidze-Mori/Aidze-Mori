@@ -8,7 +8,7 @@
       **Общие** - python, jupyter notbook, streamlit, gradio, numpy, pandas, os, scikit-learn (sklearn)\
       **Computer Vision** - OpenCV, PIL, YOLO, OpenAI CLIP\
       **Table data** - sklearn, pandas, os, matplotlib, seaborn, plotly, Catboost,\
-      **Neuro Networks frameworks** - PyTorch, Tensorflow and Tensorflow Keras\
+      **Neuro Networks frameworks** - PyTorch, Tensorflow and Tensorflow Keras
 
       
 

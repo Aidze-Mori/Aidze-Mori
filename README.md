@@ -1,7 +1,7 @@
 ## Всем привет, Меня зовут Даниил Королев 👋
 
 
-Я **Data Scientist** и **ML engineer** активно учусь и узнаю что-то новое
+Я **Data Scientist** и **ML engineer** в **SBER MED AI**
 
 
 Чаще всего использую следующие технологии:
@@ -10,9 +10,6 @@
       **Table data** - sklearn, pandas, os, matplotlib, seaborn, plotly, Catboost,\
       **Neuro Networks frameworks** - PyTorch, Tensorflow and Tensorflow Keras
 
-      
-
-**В данный момент ищу работу и буду рад обсудить ваше предложение :)**
 
   Мои контакты:
     telegram - @aidzemori
